@@ -1,0 +1,44 @@
+name: Sync CTO Advisor upstream
+
+on:
+  schedule:
+    - cron: "27 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-cto-advisor-upstream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out mirror
+        uses: actions/checkout@v7.0.1
+
+      - name: Synchronize upstream skill
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/sync_upstream.py
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "CTO Advisor upstream is already current." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          revision="$(python3 -c 'import json; print(json.load(open(".upstream/source.json"))["sourceCommit"][:12])')"
+          version="$(python3 -c 'import json; print(json.load(open(".upstream/source.json"))["version"])')"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "chore(sync): update CTO Advisor to ${revision}"
+          git push
+          echo "Updated CTO Advisor to version ${version}, revision ${revision}." >> "$GITHUB_STEP_SUMMARY"

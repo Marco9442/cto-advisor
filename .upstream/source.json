@@ -1,0 +1,142 @@
+{
+  "contentSha256": "10624189baa8deb8294a3ad49b38c2eb84b3371a4f3c87a6ac3db86aa49a8ef7",
+  "files": [
+    {
+      "mode": "100644",
+      "path": "LICENSE",
+      "sha256": "a20126646f93d32a8989c3cf4772d59194f405034f7babe7daebeac22b8ab151",
+      "size": 1072,
+      "sourcePath": "LICENSE",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "SKILL.md",
+      "sha256": "801c0a5c8a7a2eaeede5e8f6641d9ac94dd0b6f209905f817b1248648d216bee",
+      "size": 11984,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md",
+      "transformed": true
+    },
+    {
+      "mode": "100644",
+      "path": "references/agent-protocol.md",
+      "sha256": "fda98bece66a8903d95c79fa6dab49eb4e636014626ee119264e2c0e4224154e",
+      "size": 16781,
+      "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "references/architecture_decision_records.md",
+      "sha256": "9cbc68b3dbe2f4bbe7b0fcef1d93b07fa3419a5762e4a0c8ae94aa34daa9f67b",
+      "size": 8716,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/architecture_decision_records.md",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "references/engineering_metrics.md",
+      "sha256": "f91562f6c0b29137092be44a1759c078298528d3598d7ce0222fc72a05706e68",
+      "size": 12365,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/engineering_metrics.md",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "references/technology_evaluation_framework.md",
+      "sha256": "0ae857e7046b50df528802037c9c417c6b5f1da3ce0879ca31528fda300a554a",
+      "size": 9875,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/technology_evaluation_framework.md",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "scripts/team_scaling_calculator.py",
+      "sha256": "5f16f050b56416f924729833aa092105ebaaa7c1c2bc9d3a69b89035ee374e1a",
+      "size": 22541,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/scripts/team_scaling_calculator.py",
+      "transformed": false
+    },
+    {
+      "mode": "100644",
+      "path": "scripts/tech_debt_analyzer.py",
+      "sha256": "224f5f66489b3a93164e6e706f2dd9c2a72fe3b33164812f57f9f24788ee39e7",
+      "size": 17297,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/scripts/tech_debt_analyzer.py",
+      "transformed": false
+    }
+  ],
+  "license": "MIT",
+  "protocolCommit": "aecfb8e0bb71dbf1413082f86b33a5c4c9b8f416",
+  "protocolSourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
+  "schemaVersion": 1,
+  "skillCommit": "c339095f9d66594eff284a11c76e6ca538f8bd9c",
+  "skillCommitDate": "2026-06-11T16:44:17Z",
+  "sourceCommit": "f2bac0a8f29b71846cc62d9d580249c2a3246030",
+  "sourceFiles": [
+    {
+      "mode": "100644",
+      "sha256": "a20126646f93d32a8989c3cf4772d59194f405034f7babe7daebeac22b8ab151",
+      "size": 1072,
+      "sourcePath": "LICENSE"
+    },
+    {
+      "mode": "100644",
+      "sha256": "fda98bece66a8903d95c79fa6dab49eb4e636014626ee119264e2c0e4224154e",
+      "size": 16781,
+      "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "sha256": "163188fbfa003cfe593f460f814aadcfa4228c85d6de96fe7589442afbee8adb",
+      "size": 11982,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md"
+    },
+    {
+      "mode": "100644",
+      "sha256": "9cbc68b3dbe2f4bbe7b0fcef1d93b07fa3419a5762e4a0c8ae94aa34daa9f67b",
+      "size": 8716,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/architecture_decision_records.md"
+    },
+    {
+      "mode": "100644",
+      "sha256": "f91562f6c0b29137092be44a1759c078298528d3598d7ce0222fc72a05706e68",
+      "size": 12365,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/engineering_metrics.md"
+    },
+    {
+      "mode": "100644",
+      "sha256": "0ae857e7046b50df528802037c9c417c6b5f1da3ce0879ca31528fda300a554a",
+      "size": 9875,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/references/technology_evaluation_framework.md"
+    },
+    {
+      "mode": "100644",
+      "sha256": "5f16f050b56416f924729833aa092105ebaaa7c1c2bc9d3a69b89035ee374e1a",
+      "size": 22541,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/scripts/team_scaling_calculator.py"
+    },
+    {
+      "mode": "100644",
+      "sha256": "224f5f66489b3a93164e6e706f2dd9c2a72fe3b33164812f57f9f24788ee39e7",
+      "size": 17297,
+      "sourcePath": "c-level-advisor/skills/cto-advisor/scripts/tech_debt_analyzer.py"
+    }
+  ],
+  "transformations": [
+    {
+      "description": "Replace ../agent-protocol/SKILL.md with references/agent-protocol.md so the skill is standalone",
+      "file": "SKILL.md"
+    },
+    {
+      "description": "Copy dependency from c-level-advisor/skills/agent-protocol/SKILL.md without modification",
+      "file": "references/agent-protocol.md"
+    }
+  ],
+  "upstreamBranch": "main",
+  "upstreamOwner": "alirezarezvani",
+  "upstreamRepository": "claude-skills",
+  "upstreamSkillPath": "c-level-advisor/skills/cto-advisor",
+  "upstreamUrl": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/cto-advisor",
+  "version": "2.0.0"
+}
