@@ -1,5 +1,5 @@
 {
-  "contentSha256": "10624189baa8deb8294a3ad49b38c2eb84b3371a4f3c87a6ac3db86aa49a8ef7",
+  "contentSha256": "9adf46b387cbf50f42b8f1dac24f04b027fa778db98693aa58441be5e5b4c1f3",
   "files": [
     {
       "mode": "100644",
@@ -20,8 +20,8 @@
     {
       "mode": "100644",
       "path": "references/agent-protocol.md",
-      "sha256": "fda98bece66a8903d95c79fa6dab49eb4e636014626ee119264e2c0e4224154e",
-      "size": 16781,
+      "sha256": "05c7bd77f01c04983585e33a3b54c32e8c9684d5bd6c9dcf6cb8a735586aba87",
+      "size": 16829,
       "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
       "transformed": false
     },
@@ -67,12 +67,12 @@
     }
   ],
   "license": "MIT",
-  "protocolCommit": "aecfb8e0bb71dbf1413082f86b33a5c4c9b8f416",
+  "protocolCommit": "adb1041beb610b0ea6214cec845bc8ee859311a2",
   "protocolSourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
   "schemaVersion": 1,
   "skillCommit": "c339095f9d66594eff284a11c76e6ca538f8bd9c",
   "skillCommitDate": "2026-06-11T16:44:17Z",
-  "sourceCommit": "f2bac0a8f29b71846cc62d9d580249c2a3246030",
+  "sourceCommit": "405384d46b3cffe0612a9b4a3849d960f43924a8",
   "sourceFiles": [
     {
       "mode": "100644",
@@ -82,8 +82,8 @@
     },
     {
       "mode": "100644",
-      "sha256": "fda98bece66a8903d95c79fa6dab49eb4e636014626ee119264e2c0e4224154e",
-      "size": 16781,
+      "sha256": "05c7bd77f01c04983585e33a3b54c32e8c9684d5bd6c9dcf6cb8a735586aba87",
+      "size": 16829,
       "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md"
     },
     {
