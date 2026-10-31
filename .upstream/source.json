@@ -1,5 +1,5 @@
 {
-  "contentSha256": "9adf46b387cbf50f42b8f1dac24f04b027fa778db98693aa58441be5e5b4c1f3",
+  "contentSha256": "38e74826363414ac77cfd82b6b54ecd44bbce7c19078fba33b7ca06622abaf50",
   "files": [
     {
       "mode": "100644",
@@ -12,16 +12,16 @@
     {
       "mode": "100644",
       "path": "SKILL.md",
-      "sha256": "801c0a5c8a7a2eaeede5e8f6641d9ac94dd0b6f209905f817b1248648d216bee",
-      "size": 11984,
+      "sha256": "9174f2829506023903224b1823f9a7cafbf8045b0b606ccac33e359b881095a7",
+      "size": 11775,
       "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md",
       "transformed": true
     },
     {
       "mode": "100644",
       "path": "references/agent-protocol.md",
-      "sha256": "05c7bd77f01c04983585e33a3b54c32e8c9684d5bd6c9dcf6cb8a735586aba87",
-      "size": 16829,
+      "sha256": "f8e469de4abfcae66b71013f2607b4a25f509ecba4813bf3f6f9a1b92bb4d5af",
+      "size": 16710,
       "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
       "transformed": false
     },
@@ -67,12 +67,12 @@
     }
   ],
   "license": "MIT",
-  "protocolCommit": "adb1041beb610b0ea6214cec845bc8ee859311a2",
+  "protocolCommit": "b078bb8996405fe980c384136f6ed9226cbf2489",
   "protocolSourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
   "schemaVersion": 1,
-  "skillCommit": "c339095f9d66594eff284a11c76e6ca538f8bd9c",
-  "skillCommitDate": "2026-06-11T16:44:17Z",
-  "sourceCommit": "405384d46b3cffe0612a9b4a3849d960f43924a8",
+  "skillCommit": "b078bb8996405fe980c384136f6ed9226cbf2489",
+  "skillCommitDate": "2026-10-30T17:23:53Z",
+  "sourceCommit": "e4a1dc3695908dd5a6c811cc76ab7aa4cf95f2f0",
   "sourceFiles": [
     {
       "mode": "100644",
@@ -82,14 +82,14 @@
     },
     {
       "mode": "100644",
-      "sha256": "05c7bd77f01c04983585e33a3b54c32e8c9684d5bd6c9dcf6cb8a735586aba87",
-      "size": 16829,
+      "sha256": "f8e469de4abfcae66b71013f2607b4a25f509ecba4813bf3f6f9a1b92bb4d5af",
+      "size": 16710,
       "sourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md"
     },
     {
       "mode": "100644",
-      "sha256": "163188fbfa003cfe593f460f814aadcfa4228c85d6de96fe7589442afbee8adb",
-      "size": 11982,
+      "sha256": "a138e84d6b2e5d3c1aeded60380c0b26814d89bf19a6916d549bfaf85dfaaddd",
+      "size": 11773,
       "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md"
     },
     {
