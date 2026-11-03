@@ -9,8 +9,8 @@
 - Skill 名称：`cto-advisor`
 - 上游版本：`2.0.0`
 - 上游分支：`main`
-- 最近 Skill 变更：[`b078bb899640`](https://github.com/alirezarezvani/claude-skills/commit/b078bb8996405fe980c384136f6ed9226cbf2489)
-- 变更时间：`2026-10-30T17:23:53Z`
+- 最近 Skill 变更：[`6278f7302d5e`](https://github.com/alirezarezvani/claude-skills/commit/6278f7302d5e2e27943ed34fb4e9f7058dda9b1b)
+- 变更时间：`2026-11-03T09:11:02Z`
 - 许可证：`MIT`
 - 来源清单：[`.upstream/source.json`](.upstream/source.json)
 

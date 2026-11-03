@@ -1,5 +1,5 @@
 {
-  "contentSha256": "38e74826363414ac77cfd82b6b54ecd44bbce7c19078fba33b7ca06622abaf50",
+  "contentSha256": "3fd3466d20ec7c3c20c66bc7f76f51c5a415bd09e7340c6c8d94a2a69ae6f77e",
   "files": [
     {
       "mode": "100644",
@@ -12,8 +12,8 @@
     {
       "mode": "100644",
       "path": "SKILL.md",
-      "sha256": "9174f2829506023903224b1823f9a7cafbf8045b0b606ccac33e359b881095a7",
-      "size": 11775,
+      "sha256": "ae292445d9b2d01ed274a9915803f9643392f0ca68ae58f3cfca9335eebdac9f",
+      "size": 11770,
       "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md",
       "transformed": true
     },
@@ -70,9 +70,9 @@
   "protocolCommit": "b078bb8996405fe980c384136f6ed9226cbf2489",
   "protocolSourcePath": "c-level-advisor/skills/agent-protocol/SKILL.md",
   "schemaVersion": 1,
-  "skillCommit": "b078bb8996405fe980c384136f6ed9226cbf2489",
-  "skillCommitDate": "2026-10-30T17:23:53Z",
-  "sourceCommit": "e4a1dc3695908dd5a6c811cc76ab7aa4cf95f2f0",
+  "skillCommit": "6278f7302d5e2e27943ed34fb4e9f7058dda9b1b",
+  "skillCommitDate": "2026-11-03T09:11:02Z",
+  "sourceCommit": "c85b17e1fb621ba760478baaacc4fcb9be225e74",
   "sourceFiles": [
     {
       "mode": "100644",
@@ -88,8 +88,8 @@
     },
     {
       "mode": "100644",
-      "sha256": "a138e84d6b2e5d3c1aeded60380c0b26814d89bf19a6916d549bfaf85dfaaddd",
-      "size": 11773,
+      "sha256": "e911e04778e76ba65c7a29286ae522655f6be59f630d6a4c570a70e4e46cc983",
+      "size": 11768,
       "sourcePath": "c-level-advisor/skills/cto-advisor/SKILL.md"
     },
     {
